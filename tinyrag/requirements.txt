@@ -3,3 +3,12 @@ fitz
 frontend
 PyMuPDF
 modelscope
+sentence_transformers
+nltk
+python-docx
+python-pptx
+markdown
+beautifulsoup4
+jieba
+oss2
+datasets==2.18.0

@@ -312,3 +312,7 @@ def search(self, query:str, top_n=3) -> list:
 | Learning to Filter Context for Retrieval-Augmented Generation | [paper](http://arxiv.org/abs/2311.08377)  |
 | In-Context Retrieval-Augmented Language Models               | [paper](https://arxiv.org/abs/2302.00083) |
 
+
+## 其他
+### CPU环境下安装faiss-cpu
+```conda install faiss-cpu -c pytorch```
